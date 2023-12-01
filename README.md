@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Salma Tahir</h1>
 <h3 align="center">HR Manager</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salmatahir9&label=Profile%20views&color=0e75b6&style=flat" alt="salmatahir9" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salmatahir9" alt="salmatahir9" /></a> </p>
+
 
 - 🔭 I’m currently working as **HR Manager**
 
